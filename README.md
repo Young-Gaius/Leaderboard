@@ -52,10 +52,6 @@ _[LEADERBOARD]_ is a Javascript, HTML, and CSS project
 - [Desktop Version]
 - [Dynamic Design]
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming soon
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -106,7 +102,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 _Nalian Achei_
+👤 _Young Gaius_
 
 - Github: [Young-Gaius](https://github.com/Young-Gaius)
 - Linkedin: [Young-gaius](https://www.linkedin.com/in/young-gaius-205624268/)
