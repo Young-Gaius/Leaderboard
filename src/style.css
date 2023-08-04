@@ -6,9 +6,7 @@
   margin-left: 10rem;
 }
 
-.score-list {
-  border: 2px solid black;
-  height: 121px;
+.score-list { 
   width: 251px;
   margin-left: 10rem;
 }
@@ -24,6 +22,21 @@ main {
 .info {
   margin: 15px;
   border: 2px solid black;
+}
+
+li {
+  list-style: none;
+  text-decoration: none;
+  padding: 5px;
+  margin-left: -20%;
+}
+
+.list {
+  border: 2px solid black;
+}
+
+li:nth-child(even){
+  background-color: gray;
 }
 
 button {
