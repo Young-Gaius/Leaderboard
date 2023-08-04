@@ -1,9 +1,9 @@
 
 .recent-scores {
   display: flex;
-   align-items: center; 
-   gap: 3rem;
-   margin-left: 10rem;
+  align-items: center;
+  gap: 3rem;
+  margin-left: 10rem;
 }
 
 .score-list {
@@ -18,7 +18,7 @@ main {
 }
 
 .add-score {
-  margin-left: 6rem; 
+  margin-left: 6rem;
 }
 
 .info {
@@ -27,13 +27,13 @@ main {
 }
 
 button {
- border: 2px solid black;
- box-shadow: 2px 2px 0 0 black;
- padding-left: 2.5%;
- padding-right: 2.5%;
+  border: 2px solid black;
+  box-shadow: 2px 2px 0 0 black;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
 }
 
 .button {
-margin-left: 9rem;
-padding: 2px;
+  margin-left: 9rem;
+  padding: 2px;
 }
