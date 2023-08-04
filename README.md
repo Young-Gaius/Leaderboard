@@ -126,4 +126,12 @@ Feel free to check the [issues page](https://github.com/Young-Gaius/Leaderboard/
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please do well to give it a star
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank the Microverse community for their lessons and Cindy Shin in Behance for the design guidelines
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
 
