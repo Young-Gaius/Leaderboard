@@ -13,9 +13,9 @@ const addScore = async (name, score) => {
     });
 
     const data = await response.json();
-    ('Score added:', data.result);
+    return data.result;
   } catch (error) {
-    ('Error:', error);
+    return error;
   }
 };
 

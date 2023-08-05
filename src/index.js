@@ -9,14 +9,11 @@ submitButton.addEventListener('click', async () => {
   const scoreInput = document.getElementById('s-input');
 
   const name = nameInput.value;
-  const score = parseInt(scoreInput.value);
+  const score = (scoreInput.value);
 
   await addScore(name, score);
   nameInput.value = '';
   scoreInput.value = '';
-
-  console.log(name);
-  console.log('Hi');
 });
 
 // Event listener for the refresh button
