@@ -6,7 +6,7 @@
   margin-left: 10rem;
 }
 
-.score-list { 
+.score-list {
   width: 251px;
   margin-left: 10rem;
 }
@@ -35,7 +35,7 @@ li {
   border: 2px solid black;
 }
 
-li:nth-child(even){
+li:nth-child(even) {
   background-color: gray;
 }
 
