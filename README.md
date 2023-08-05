@@ -102,7 +102,9 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
+
 👤 _Young Gaius_
+
 
 - Github: [Young-Gaius](https://github.com/Young-Gaius)
 - Linkedin: [Young-gaius](https://www.linkedin.com/in/young-gaius-205624268/)
@@ -122,6 +124,7 @@ Feel free to check the [issues page](https://github.com/Young-Gaius/Leaderboard/
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please do well to give it a star
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank the Microverse community for their lessons and Cindy Shin in Behance for the design guidelines
