@@ -1,6 +1,7 @@
 body {
   background-color: chocolate;
 }
+
 .recent-scores {
   display: flex;
   align-items: center;
